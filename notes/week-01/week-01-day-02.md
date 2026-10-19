@@ -419,4 +419,4 @@ CalculateAverage();
 - **Grade Boundaries** လို Edge Cases တွေကို Test လုပ်ပါ။
 
 **Previous:** [Week 1 · Day 1 — Introduction to C# and .NET](week-01-day-01.md)  
-**Next:** Week 1 · Day 3 — Operators, Conditional Statements & Logical Thinking
+**Next:** [Week 1 · Day 3 — Operators, Conditional Statements & Logical Thinking](week-01-day-03.md)
