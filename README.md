@@ -10,9 +10,8 @@ This repo contains my practice code, assignments, and projects as I learn C# and
 
 | Folder | Description |
 |--------|-------------|
-| `Practice/` | Daily practice code and exercises |
-| `Assignments/` | Class assignments and homework |
-| `Projects/` | Projects built throughout the course |
+| `Week-01/` | Day-by-day practice projects (`Day1`–`Day5`), each a console app |
+| `notes/` | Handwritten-style markdown notes, organized by week (`week-01`, `week-02`, ...) |
 
 ## Tech Stack
 
@@ -34,13 +33,13 @@ git clone https://github.com/mryeminaung/dotnet-scholar.git
 # Navigate to the project
 cd dotnet-scholar
 
-# Run a specific project
-dotnet run --project Projects/ProjectName
+# Run a specific day's project
+dotnet run --project Week-01/Day1
 ```
 
 ## Notes
 
-This repository serves as a record of my progress and growth as a C# developer. Each folder represents a milestone in my learning journey.
+This repository serves as a record of my progress and growth as a C# developer. Each folder represents a milestone in my learning journey. Class notes live in `notes/`, while runnable code lives in the weekly folders.
 
 ---
 
